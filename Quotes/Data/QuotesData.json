@@ -1,0 +1,45 @@
+[{
+        "author":"Wayne Gretzky",
+        "image":"calm",
+        "mainQuote":"You miss 100% of the shots you don't take.",
+        "quotes": ["You miss 100% of the shots you don't take",
+            "A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be",
+            "When you win, say nothing, when you lose say less",
+            "I skate to where the puck is going to be, not where it has been"
+        ]
+    },
+    {
+        "author":"Steve Jobs",
+        "image":"focus",
+        "mainQuote":"You miss 100% of the shots you don't take.",
+        "quotes": ["Stay hungry, stay foolish",
+            "Great things in business are never done by one person. They're done by a team of people",
+            "Sometimes life hits you in the head with a brick. Don't lose faith",
+            "your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking",
+            "My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."
+        ]
+    },
+    {
+        "author":"Walt Disney",
+        "image":"reflect",
+        "mainQuote":"All our dreams can come true, if we have the courage to pursue them",
+        "quotes": ["All our dreams can come true, if we have the courage to pursue them",
+            "It's kind of fun to do the impossibe",
+            "Laughter is timeless, imagination has no age, dreams are forever",
+            "Togetherness, for me, means teamwork",
+            "The way to get started is to quit talking and begin doing",
+            "A man should never neglect his family for business"
+        ]
+    },
+    {
+        "author":"John Lennon",
+        "image":"reframe",
+        "mainQuote":"Life is what happens when you're busy making other plans.",
+        "quotes": ["Life is what happens when you're busy making other plans.",
+            "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.",
+            "Count your age by friends, not years. Cound your life by smiles, not tears.",
+            "There are two basic motivating forces: fear and love. When we are afraid, we pull back from life. When we are in love, we open to all that life has to offer with passion, excitement, and acceptance. We need to learn to love ourselves first, in all our glory and our imperfections. If we cannot love ourselves, we cannot fully open to our ability to love others or our potential to create. Evolution and all hopes for a better world rest in the fearlessness and open-hearted vision of people who embrace life.",
+            "I believe in everything until it's disproved. So I believe in fairies, the myths, dragons. It all exists, even if it's in your mind. Who's to say that dreams and nightmares aren't as real as the here and now?"
+        ]
+    }
+]
